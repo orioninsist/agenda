@@ -1,0 +1,16 @@
+* 10/01/2023
+- [X] archbox
+- [X] agenda
+- [ ] personal-investment
+- [X] income-expense-investment-analysis
+-----
+* 10/02/2023
+* - [X] linuxbox
+* - [X] agenda
+* - [X] project folder changed.
+-----
+* 10/03/2023
+* - [X] project folder changed.
+-----
+* 10/4/2023
+* - [X] devops
